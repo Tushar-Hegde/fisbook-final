@@ -18,3 +18,19 @@ A networking website for students and teachers, where you can join clubs, plan a
 ![image](https://github.com/Tushar-Hegde/fisbook-final/assets/128315293/79437a9c-5624-4efb-bc3f-6aaf7739352c)
 
 ![image](https://github.com/Tushar-Hegde/fisbook-final/assets/128315293/12819fa0-e5ae-4720-bac9-6c3fff7a0292)
+
+![image](https://github.com/Tushar-Hegde/fisbook-final/assets/128315293/7f2f32ef-2023-4782-9bf3-70d6727c6ef7)
+
+![image](https://github.com/Tushar-Hegde/fisbook-final/assets/128315293/bbc7e572-4940-4ede-bdd2-52bbfdec1687)
+
+![image](https://github.com/Tushar-Hegde/fisbook-final/assets/128315293/7ca674dc-6b0f-43bd-8cef-dacc9cccb142)
+
+![image](https://github.com/Tushar-Hegde/fisbook-final/assets/128315293/19c950dc-650e-41b3-af05-87dda6c1bd60)
+
+
+Modules required :
+1.	Django
+2.	Pillow
+3.	Tkinter
+4.	Default python modules
+5.	SQLite
